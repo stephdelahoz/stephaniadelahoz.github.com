@@ -13,7 +13,7 @@ header {
     padding: 0;
     position: relative;
     overflow: hidden;
-    background-image: url(prog.jpg);
+    background-image: url(giphy.gif);
 }
 
 header article {
@@ -271,7 +271,7 @@ font-size: 1.5em;}
 @media only screen and (max-width: 699px){
     header {
         height: 500px;
-        background: url('prog.jpg') no-repeat top center fixed #333;
+        background: url('giphy.gif') no-repeat top center fixed #333;
     }
     header article {
         height: auto;
